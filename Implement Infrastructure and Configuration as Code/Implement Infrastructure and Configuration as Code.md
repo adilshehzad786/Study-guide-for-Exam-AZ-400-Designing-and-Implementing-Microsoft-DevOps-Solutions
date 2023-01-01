@@ -147,12 +147,6 @@ template.
         }
 ```
 
-The complete Files are available here to download
-
-[azuredeploy.json](Implement%20Infrastructure%20and%20Configuration%20as%20Code%2063a232137bf1430d8f69bbabaeedf374/azuredeploy.json)
-
-[deployment.parameters.json](Implement%20Infrastructure%20and%20Configuration%20as%20Code%2063a232137bf1430d8f69bbabaeedf374/deployment.parameters.json)
-
 ## Deployment
 
 ### Deployment using Powershell
@@ -175,12 +169,13 @@ parameters.json"
 庁 You can also deploy it using Azure DevOps Pipelines and Azure ARM Template.
 
 </aside>
+![Untitled](https://user-images.githubusercontent.com/53600644/210173925-f31bd21d-8862-4326-b050-aa3bbd7537d8.png)
 
-![Untitled](file://C:\Users\ashehzad\Downloads\Export-0a17bb71-5808-4332-8a1d-fd05784900a8\Implement%20Infrastructure%20and%20Configuration%20as%20Code%2063a232137bf1430d8f69bbabaeedf374\Untitled.png)
 
 Click on Save
 
-![Untitled](file://C:\Users\ashehzad\Downloads\Export-0a17bb71-5808-4332-8a1d-fd05784900a8\Implement%20Infrastructure%20and%20Configuration%20as%20Code%2063a232137bf1430d8f69bbabaeedf374\Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/53600644/210173928-a4ff6364-91f1-4fe0-9463-a6f82bf5bbf2.png)
+
 
 <aside>
 庁 Make sure you change the web_name and database name
@@ -188,8 +183,8 @@ Click on Save
 </aside>
 
 The following resources will be created
+![Untitled 2](https://user-images.githubusercontent.com/53600644/210173936-8dee473f-dd25-4694-80f1-943c594ea39c.png)
 
-![Untitled](file://C:\Users\ashehzad\Downloads\Export-0a17bb71-5808-4332-8a1d-fd05784900a8\Implement%20Infrastructure%20and%20Configuration%20as%20Code%2063a232137bf1430d8f69bbabaeedf374\Untitled%202.png)
 
 # Bicep
 

@@ -15,25 +15,29 @@ environment and passes all tests and verifications is also deployed to productio
 In the last section, we continuously integrate our application code and save the artifact file , now we will deploy the artifact to the Azure App Service.
 
 1. Click on **Releases**
+![Untitled](https://user-images.githubusercontent.com/53600644/210173776-8dd1202f-5bc4-4e4b-986b-d01e45d12e96.png)
 
-![Untitled](file://C:\Users\ashehzad\Downloads\Export-b1377c0e-b032-4ca8-bc41-fb8eaf513398\Implementing%20Continuous%20Deployment%20and%20Release%20Man%20214f44da9b8a4d2ea1dc8257172f0db1\Untitled.png)
+
 
 1. From Release create a new Empty Release
 
-![Untitled](file://C:\Users\ashehzad\Downloads\Export-b1377c0e-b032-4ca8-bc41-fb8eaf513398\Implementing%20Continuous%20Deployment%20and%20Release%20Man%20214f44da9b8a4d2ea1dc8257172f0db1\Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/53600644/210173782-ecb9b173-5751-47fb-b015-d562709dcbc3.png)
+
 
 1. Click the **Triggers** button on the artifact.
 2. **Enable** continuous deployment, if it is not already enabled.
 3. Now click on 1 job,0 task, and then go to variables to add pipeline variables
 
-![Untitled](file://C:\Users\ashehzad\Downloads\Export-b1377c0e-b032-4ca8-bc41-fb8eaf513398\Implementing%20Continuous%20Deployment%20and%20Release%20Man%20214f44da9b8a4d2ea1dc8257172f0db1\Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/53600644/210173786-3ad0f83d-a130-4d7f-a79d-d711144fee71.png)
+
 
 1. Now go to the Azure Portal and create a resource group and then **Add** a **resourcegroup**
    variable that is not currently used by an existing resource group in your Azure account.
 2. Go to Pipeline and click on Agent and then add a ARM template.
 3. Fill all the details like the subscription and resource group , then linked the ARM template by clicking on the three button
 
-![Untitled](file://C:\Users\ashehzad\Downloads\Export-b1377c0e-b032-4ca8-bc41-fb8eaf513398\Implementing%20Continuous%20Deployment%20and%20Release%20Man%20214f44da9b8a4d2ea1dc8257172f0db1\Untitled%203.png)
+![Untitled 3](https://user-images.githubusercontent.com/53600644/210173790-2ded94da-748b-4f7c-bc5a-95e6a7daafcf.png)
+
 
 You will also need to set **Override template parameters** to generate an Azure app service name that is globally unique, so your name is recommended. For Example **-p_environment dev**
 
@@ -55,8 +59,9 @@ You will also need to set **Override template parameters** to generate an Azure 
   
 8. Note that it will take a few minutes (around 5 at the time of drafting) for the app to finish deploying due to heavy first-time operations.)
   
+![Untitled 4](https://user-images.githubusercontent.com/53600644/210173793-6a523f25-b21e-4a3c-92ac-4beafa9ad2f8.png)
 
-![Untitled](file://C:\Users\ashehzad\Downloads\Export-b1377c0e-b032-4ca8-bc41-fb8eaf513398\Implementing%20Continuous%20Deployment%20and%20Release%20Man%20214f44da9b8a4d2ea1dc8257172f0db1\Untitled%204.png)
+
 
 # Stage triggers, approvals, and gates
 

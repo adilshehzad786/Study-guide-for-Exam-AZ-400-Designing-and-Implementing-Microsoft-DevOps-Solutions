@@ -38,7 +38,9 @@ Once you have signed up for Azure DevOps, you can create a new organization by f
 
 Your new organization will be created, and you will be taken to the organization dashboard. From here, you can create and manage projects, collaborate with team members, and track work progress.
 
-![Untitled](file://C:\Users\ashehzad\Downloads\Export-72af647e-1d09-4f37-bc56-b62b02db7dff\Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/53600644/210171462-1ce5feb3-d197-49ef-999b-04b2ad88e617.png)
+
+
 
 # Exploring DevOps Practices
 

@@ -315,7 +315,9 @@ git tag v2.0.0
 
 Finally, it is possible to enforce one or more policies on pull requests to a specific branch. The interface for branch, policies is shown in the following screenshot and can be accessed by choosing the Branch policies option while managing the authorizations on a repository branch:
 
-![Untitled](file://C:\Users\ashehzad\Downloads\Export-eee29308-1b9a-410a-8db0-e60fe765f9bb\All%20About%20Source%20Control%20f955a160f04d4f359bdebcbaf9c1f2c7\Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/53600644/210172776-6fc77b64-44eb-442e-be9c-b477167d501d.png)
+
+
 
 ### Other tools for source control
 

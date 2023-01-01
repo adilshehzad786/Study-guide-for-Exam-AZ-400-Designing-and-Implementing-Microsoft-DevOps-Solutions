@@ -49,8 +49,7 @@ A **Distributed Version Control System** contains multiple repositories. All use
 
 ## Source control systems
 
-### • TFVC
-
+* TFVC
 • Git
 • Subversion
 

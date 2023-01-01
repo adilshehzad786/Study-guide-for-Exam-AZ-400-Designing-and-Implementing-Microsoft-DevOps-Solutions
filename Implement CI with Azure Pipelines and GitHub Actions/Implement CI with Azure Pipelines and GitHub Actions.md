@@ -6,7 +6,8 @@ URL: https://github.com/adilshehzad786/ContosoAir
 
 1. Fork this repository → ‣
 
-![Untitled](file://C:\Users\ashehzad\Downloads\Export-b48107c3-0936-4d74-be86-55ae681868f9\Implement%20CI%20with%20Azure%20Pipelines%20and%20GitHub%20Actio%2099b9acc747964c2d8178e4ed3c9b2cf3\Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/53600644/210173483-bba4995e-630e-4d1a-8d9c-6a87dd03f45a.png)
+
 
 1. Clone the repository to your local machine
 
@@ -32,7 +33,8 @@ To install Azure Pipelines from GitHub Marketplace, follow these steps:
 2. Select GitHub as your remote origin and then select the repository you forked earlier
 3. Select Node and then replace the code with the code given below
 
-![Untitled](file://C:\Users\ashehzad\Downloads\Export-b48107c3-0936-4d74-be86-55ae681868f9\Implement%20CI%20with%20Azure%20Pipelines%20and%20GitHub%20Actio%2099b9acc747964c2d8178e4ed3c9b2cf3\Untitled%201.png)
+
+![Untitled 1](https://user-images.githubusercontent.com/53600644/210173489-3cee8ac8-8e78-4327-85f5-e6992bad3e7d.png)
 
 ```yaml
 pool:
@@ -64,7 +66,8 @@ steps:
 
 1. confirm the **Save and run** to commit the YAML definition directly to the master branch of the repo.
 
-![Untitled](file://C:\Users\ashehzad\Downloads\Export-b48107c3-0936-4d74-be86-55ae681868f9\Implement%20CI%20with%20Azure%20Pipelines%20and%20GitHub%20Actio%2099b9acc747964c2d8178e4ed3c9b2cf3\Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/53600644/210173497-1a1a8455-5317-4c87-8017-9f44af57c63d.png)
+
 
 ## ****Adding a build status badge****
 
@@ -74,11 +77,13 @@ An important sign for a quality project is its build status badge. When someone 
 2. From the **ellipses (…)** dropdown, select **Status badge**
   .
 
-![Untitled](file://C:\Users\ashehzad\Downloads\Export-b48107c3-0936-4d74-be86-55ae681868f9\Implement%20CI%20with%20Azure%20Pipelines%20and%20GitHub%20Actio%2099b9acc747964c2d8178e4ed3c9b2cf3\Untitled%203.png)
+
+![Untitled 3](https://user-images.githubusercontent.com/53600644/210173503-0f95469d-5c42-4024-82fe-f3d95e1c1e29.png)
 
 1. Copy the markdown and add it your clone repository code
 
-![Untitled](file://C:\Users\ashehzad\Downloads\Export-b48107c3-0936-4d74-be86-55ae681868f9\Implement%20CI%20with%20Azure%20Pipelines%20and%20GitHub%20Actio%2099b9acc747964c2d8178e4ed3c9b2cf3\Untitled%204.png)
+![Untitled 4](https://user-images.githubusercontent.com/53600644/210173509-631f416c-bccc-49bd-94d9-261edfa33e66.png)
+
 
 push these changes to Github by following the commands
 

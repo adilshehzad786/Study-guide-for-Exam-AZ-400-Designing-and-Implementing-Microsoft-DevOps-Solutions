@@ -1,4 +1,5 @@
 # Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions Notes
+![Clipped (1)](https://user-images.githubusercontent.com/53600644/210181960-fd64dc3f-988e-4888-82d2-c81a38b19173.png)
 
 ## Table of Contents
 

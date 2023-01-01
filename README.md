@@ -10,6 +10,9 @@
 
 - [Section 6: Implementing Continuous Deployment and Release Management](/Implementing%20Continuous%20Deployment%20and%20Release%20Management/Implementing%20Continuous%20Deployment%20and%20Release%20Management.md)
 
+- [Section 7: Implement Infrastructure and Configuration as Code](/Implement%20Infrastructure%20and%20Configuration%20as%20Code/Implement%20Infrastructure%20and%20Configuration%20as%20Code.md)
+
+
 
 
 

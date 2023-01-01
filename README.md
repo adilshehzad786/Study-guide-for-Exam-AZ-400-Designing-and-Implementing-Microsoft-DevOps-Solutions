@@ -5,7 +5,6 @@
 - [Section 1: Introduction to DevOps](/Introduction%20to%20DevOps/Introduction%20to%20DevOps.md)
 
 
-
 ## Tips 
 
 ## Support

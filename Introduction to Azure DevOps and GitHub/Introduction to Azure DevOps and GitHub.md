@@ -13,7 +13,8 @@ Azure DevOps is a set of development tools, services, and features that enable t
 
 Azure Board is a work-tracking system that provides customizable dashboards, reporting, and tracking tools to help teams track and prioritize work, defects, and issues.
 
-![Untitled](file://C:\Users\ashehzad\Downloads\Export-7bd91f7b-7693-4db9-ad1c-830c58af03e8\Introduction%20to%20Azure%20DevOps%20and%20GitHub%2049fd655ca5734671b0422c39055157b9\Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/53600644/210172441-ca90f4ab-71c9-4855-9a02-925730f62f63.png)
+
 
 ## Azure Repo
 
@@ -23,26 +24,30 @@ Azure Repos offers two types of version control systems:
 **Team Foundation Version Control (TFVC):** This is a centralized version control system. Though not widely used in recent times, many project teams are continuing to use this approach for legacy purposes only.
 **Git:** This is the more popular distributed version control system. If you are just starting your
 DevOps journey, it is recommended to start with a Git-based version control system only.
+![Untitled 1](https://user-images.githubusercontent.com/53600644/210172447-92eecb77-4f9a-4e05-9e3f-b14f765586b7.png)
 
-![Untitled](file://C:\Users\ashehzad\Downloads\Export-7bd91f7b-7693-4db9-ad1c-830c58af03e8\Introduction%20to%20Azure%20DevOps%20and%20GitHub%2049fd655ca5734671b0422c39055157b9\Untitled%201.png)
+
 
 ## Azure Pipeline
 
 Azure Pipelines is a continuous integration and delivery (CI/CD) platform that helps teams automate the build, test, and deployment of their applications.
 
-![Untitled](file://C:\Users\ashehzad\Downloads\Export-7bd91f7b-7693-4db9-ad1c-830c58af03e8\Introduction%20to%20Azure%20DevOps%20and%20GitHub%2049fd655ca5734671b0422c39055157b9\Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/53600644/210172451-8a0831c7-c945-4076-856d-7530fcc14ae7.png)
+
 
 ## Azure Test Plans
 
 Azure Test Plans is a testing tool that helps teams plan, track, and manage their testing efforts.
 
-![Untitled](file://C:\Users\ashehzad\Downloads\Export-7bd91f7b-7693-4db9-ad1c-830c58af03e8\Introduction%20to%20Azure%20DevOps%20and%20GitHub%2049fd655ca5734671b0422c39055157b9\Untitled%203.png)
+
+![Untitled 3](https://user-images.githubusercontent.com/53600644/210172455-75e325a2-1766-4180-bf89-2cfc8d1adc4a.png)
 
 ## Azure Artifacts
 
 Azure Artifacts is a package management service that enables teams to share Maven, npm, and NuGet packages. In Azure Artifacts, a feed is a container for packages. It is a way to organize and manage packages that are used by your team or organization. A feed can be created within a project or as a standalone entity, and it can be public or private.
 
-![Untitled](file://C:\Users\ashehzad\Downloads\Export-7bd91f7b-7693-4db9-ad1c-830c58af03e8\Introduction%20to%20Azure%20DevOps%20and%20GitHub%2049fd655ca5734671b0422c39055157b9\Untitled%204.png)
+![Untitled 4](https://user-images.githubusercontent.com/53600644/210172457-806d66a5-f317-41f7-a5f4-15f1b44aef79.png)
+
 
 # What is GitHub?
 

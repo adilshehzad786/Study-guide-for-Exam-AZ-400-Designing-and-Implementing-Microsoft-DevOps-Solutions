@@ -1,0 +1,18 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "p_environment": {
+            "value": "dev" // TODO: Fill in parameter value
+        },
+        "p_site_prefix": {
+            "value": "githubci" // TODO: Fill in parameter value
+        },
+        "p_site_web_name": {
+            "value": "web12356" // TODO: Fill in parameter value
+        },
+        "p_comosdb_name": {
+            "value": "dbtestdb" // TODO: Fill in parameter value
+        }
+    }
+}

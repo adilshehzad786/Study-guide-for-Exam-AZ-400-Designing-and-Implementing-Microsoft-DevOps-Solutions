@@ -14,6 +14,8 @@
 
 - [Section 8:  Integrating Continuous Testing](/Integrating%20Continuous%20Testing/Integrating%20Continuous%20Testing.md)
 
+- [Section 9:  Security and Compliance](/Security%20and%20Compliance/Security%20and%20Compliance.md)
+
 
 
 

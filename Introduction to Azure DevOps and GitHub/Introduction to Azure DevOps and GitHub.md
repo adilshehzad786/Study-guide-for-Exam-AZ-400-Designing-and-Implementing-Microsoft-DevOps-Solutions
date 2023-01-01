@@ -63,28 +63,24 @@ automated actions
 
 # Learning Table
 
-| Activity | Tool |
-| --- | --- |
-| Manage your product backlog |     |
 
-Plan and track your work
-
-Prepare dashboard and report | Azure Boards |
-| Develop code locally | VS Code |
+|Activity|Tool  |
+|--|--|
+| Manage your product backlog Plan and track your work Prepare dashboard and report |  Azure Boards|
+| Develop code locally | Develop code locally |
 | Manage and track changes to your source code | Azure Repos ,Git |
-| CI/CD | Azure Pipelines
-GitHub Actions
-Jenkins |
-| Provision developer environment | Azure DevTest Labs
-Azure Virtual Desktop |
-| Infrastructure as Code | ARM (Azure Resource Manager)
-Azure CLI 
-Ansible and Terraform |
+| CI/CD | Azure Pipelines GitHub Actions Jenkins |
+| Provision developer environment | Provision developer environment |
+| Infrastructure as Code | ARM (Azure Resource Manager) Azure CLI Ansible and Terraform |
 | Manage the configuration of your resources | Ansible, Terraform, Chef , Puppet and Azure Automation. |
 | Advance Analytics and reporting | Power BI |
-| Capture and analyze logs | Azure Monitor and Data Explorer |
-| Prepare test plans and manage execution | Azure test Plans |
-| Store reusable packages and artifacts | Azure Artifact |
-| Improve productivity by using third-party extensions
-and plugins. | Azure DevOps Marketplace
-GitHub Marketplace |
+| Capture and analyze logs| Azure Monitor and Data Explorer |
+| Prepare test plans and manage execution| Azure test Plans |
+| Azure test Plans| Azure Artifacts|
+| Improve productivity by using third-party extensions and plugins.| Azure DevOps Marketplace GitHub Marketplace|
+
+
+
+
+
+

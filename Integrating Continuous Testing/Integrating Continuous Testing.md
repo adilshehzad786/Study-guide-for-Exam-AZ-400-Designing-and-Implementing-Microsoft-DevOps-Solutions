@@ -12,7 +12,8 @@ Non-functional tests are used to verify whether the other desired properties of 
 
 ## Understanding Test Types
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d050607f-22b1-466d-9762-248ebf4b6e07/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/53600644/210174114-23d5614d-6596-47b1-add6-5e266cd3c88f.png)
+
 
 # Flaky tests
 

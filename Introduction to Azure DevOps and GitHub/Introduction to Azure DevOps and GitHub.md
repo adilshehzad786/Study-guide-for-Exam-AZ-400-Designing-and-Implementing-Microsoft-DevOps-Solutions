@@ -1,9 +1,5 @@
 # Introduction to Azure DevOps and GitHub
 
-Created: October 25, 2022
-Created by: Anonymous
-Person: Anonymous
-Tags: azure devops
 
 # What is Azure DevOps
 

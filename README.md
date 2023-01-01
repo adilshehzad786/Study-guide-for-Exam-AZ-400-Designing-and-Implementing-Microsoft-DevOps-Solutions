@@ -3,6 +3,8 @@
 ## Table of Contents
 
 - [Section 1: Introduction to DevOps](/Introduction%20to%20DevOps/Introduction%20to%20DevOps.md)
+- [Section 2: Introduction to SRE](/Introduction%20to%20SRE/Introduction%20to%20SRE.md)
+
 
 
 ## Tips 

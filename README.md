@@ -6,6 +6,7 @@
 - [Section 2: Introduction to SRE](/Introduction%20to%20SRE/Introduction%20to%20SRE.md)
 - [Section 3: Introduction to Azure DevOps and GitHub](/Introduction%20to%20Azure%20DevOps%20and%20GitHub/Introduction%20to%20Azure%20DevOps%20and%20GitHub.md)
 - [Section 4: All About Source Control](/All%20About%20Source%20Control/All%20About%20Source%20Control.md)
+- [Section 5: Implement CI with Azure Pipelines and GitHub Actions](/Implement%20CI%20with%20Azure%20Pipelines%20and%20GitHub%20Actions/Implement%20CI%20with%20Azure%20Pipelines%20and%20GitHub%20Actions.md)
 
 
 

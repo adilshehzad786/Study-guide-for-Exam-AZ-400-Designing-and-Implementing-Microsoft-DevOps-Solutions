@@ -12,6 +12,8 @@
 
 - [Section 7: Implement Infrastructure and Configuration as Code](/Implement%20Infrastructure%20and%20Configuration%20as%20Code/Implement%20Infrastructure%20and%20Configuration%20as%20Code.md)
 
+- [Section 8:  Integrating Continuous Testing](/Integrating%20Continuous%20Testing/Integrating%20Continuous%20Testing.md)
+
 
 
 

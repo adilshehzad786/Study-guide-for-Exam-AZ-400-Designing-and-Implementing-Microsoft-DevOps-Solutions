@@ -8,6 +8,9 @@
 - [Section 4: All About Source Control](/All%20About%20Source%20Control/All%20About%20Source%20Control.md)
 - [Section 5: Implement CI with Azure Pipelines and GitHub Actions](/Implement%20CI%20with%20Azure%20Pipelines%20and%20GitHub%20Actions/Implement%20CI%20with%20Azure%20Pipelines%20and%20GitHub%20Actions.md)
 
+- [Section 6: Implementing Continuous Deployment and Release Management](/Implementing%20Continuous%20Deployment%20and%20Release%20Management/Implementing%20Continuous%20Deployment%20and%20Release%20Management.md)
+
+
 
 
 ## Tips 

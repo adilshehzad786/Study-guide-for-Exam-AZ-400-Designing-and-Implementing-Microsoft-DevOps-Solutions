@@ -76,5 +76,4 @@ This last practice is all about learning how your application is doing in produc
 
 # Resources
 
-[Introduction to DevOps - Training](https://learn.microsoft.com/en-us/training/modules/introduction-to-devops/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.az-400-get-started-devops-transformation-journey)
-
+[Introduction to DevOps - Training](https://learn.microsoft.com/en-us/training/modules/introduction-to-devops/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.az-400-get-started-devops-transformation-journey/?wt.mc_id=studentamb_159507)

@@ -44,11 +44,11 @@ Toil is a term used in the field of site reliability engineering (SRE) to refer 
 # Resources
 
 - Google’s SRE book: [https://sre.google/sre-book/part-I-introduction/](https://sre.google/sre-book/part-I-introduction/)
-  • Microsoft’s SRE documentation: [https://docs.microsoft.com/en-us/learn/modules/intro-to-site-reliability-engineering](https://docs.microsoft.com/en-us/learn/modules/intro-to-site-reliability-engineering)/
-  • Azure Monitor: [https://docs.microsoft.com/en-us/azure/azure-monitor/](https://docs.microsoft.com/en-us/azure/azure-monitor/)
+  • Microsoft’s SRE documentation: [https://docs.microsoft.com/en-us/learn/modules/intro-to-site-reliability-engineering](https://docs.microsoft.com/en-us/learn/modules/intro-to-site-reliability-engineering?wt.mc_id=studentamb_159507)/
+  • Azure Monitor: [https://docs.microsoft.com/en-us/azure/azure-monitor/](https://docs.microsoft.com/en-us/azure/azure-monitor/?wt.mc_id=studentamb_159507)
   overview
-  • Azure Application Insights: [https://docs.microsoft.com/en-us/azure/azuremonitor/app/app-insights-overview](https://docs.microsoft.com/en-us/azure/azuremonitor/app/app-insights-overview)
-  • Azure Automation: [https://docs.microsoft.com/en-us/azure/automation/](https://docs.microsoft.com/en-us/azure/automation/)
+  • Azure Application Insights: [https://docs.microsoft.com/en-us/azure/azuremonitor/app/app-insights-overview](https://docs.microsoft.com/en-us/azure/azuremonitor/app/app-insights-overview?wt.mc_id=studentamb_159507)
+  • Azure Automation: [https://docs.microsoft.com/en-us/azure/automation/](https://docs.microsoft.com/en-us/azure/automation/?wt.mc_id=studentamb_159507)
   overview
 
 [Introduction to Azure DevOps and GitHub](https://www.notion.so/Introduction-to-Azure-DevOps-and-GitHub-49fd655ca5734671b0422c39055157b9)

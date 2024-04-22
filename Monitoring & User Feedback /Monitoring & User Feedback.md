@@ -1,9 +1,5 @@
 # Monitoring & User Feedback
 
-Created: December 26, 2022
-Created by: Anonymous
-Person: Anonymous
-Tags: monitoring
 
 These topics are not covered here so make sure you also learn these topics before your exam
 

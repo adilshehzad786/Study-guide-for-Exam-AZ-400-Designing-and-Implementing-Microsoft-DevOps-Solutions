@@ -1,9 +1,8 @@
 # All About Source Control
 
-Wrote a code for development, defined variables performed a dry run, and undertook multiple code revisions only to discover that the previously written code was better than the latest one. Reverting to the previous code well is not an easy thing to do. At times, it was a difficult task on the developer's end.
+Writing code for development, defining variables, performing dry runs, and undergoing multiple code revisions can lead to discovering that the previously written code was better than the latest revision. Reverting to the previous code is not always straightforward and can be a challenging task for developers.
 
-The **modification, update, reversion** formulated **Version Control System**. Version Control System keeps track of files modification, deletion of files, or folder in a working director.
-Let's discuss the version control Systems more in detail.
+The **modification, update, reversion** of files led to the development of the **Version Control System** (VCS). A Version Control System keeps track of file modifications, deletions, and additions within a working directory. Let's delve deeper into the concept of version control systems.
 
 ## Version Control System
 
@@ -317,7 +316,21 @@ Finally, it is possible to enforce one or more policies on pull requests to a sp
 
 ![Untitled](https://user-images.githubusercontent.com/53600644/210172776-6fc77b64-44eb-442e-be9c-b477167d501d.png)
 
+**Source Control Integration Strategies**
 
+Design and Implement a Structure for the Flow of Work, Including GitHub Flow. GitHub Flow is a lightweight, branch-based workflow that supports teams and projects where deployments are made regularly. This flow encourages continuous communication and understanding among team members.
+
+**Design and Implement a Strategy for Feedback Cycles, Including Notifications and Issues**
+
+Implementing a strategy for rapid feedback cycles can involve setting up notifications via email, Slack, or other tools when changes are submitted, tests fail, or issues are opened or closed.
+
+**Design and Implement Integration for Tracking Work, Including GitHub Projects, Azure Boards, and Repositories**
+
+Integrating project management tools like GitHub Projects and Azure Boards allows for comprehensive tracking of tasks, bugs, and features across different stages of development and can be linked directly to code commits and pull requests.
+
+**Design and Implement Source, Bug, and Quality Traceability**
+
+Setting up traceability involves linking commits, branches, and pull requests to specific issues in a tracking system. This linkage ensures that every change in the repository can be traced back to a specific bug or feature request, enhancing the overall quality and accountability of the development process.
 
 ### Other tools for source control
 
